@@ -1,0 +1,28 @@
+{
+  "name": "course-api",
+  "version": "0.0.0",
+  "description": "A course management API",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommarien/course-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommarien/course-api/issues"
+  },
+  "homepage": "https://github.com/tommarien/course-api#readme",
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.7.1",
+    "gulp": "^3.9.1"
+  }
+}

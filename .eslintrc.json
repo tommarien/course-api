@@ -1,0 +1,14 @@
+{
+    "extends": "airbnb",
+    "parserOptions": {
+        "ecmaVersion": 2016
+    },
+    "env": {
+        "node": true
+    },
+    "plugins": [
+        "react",
+        "jsx-a11y",
+        "import"
+    ]
+}
